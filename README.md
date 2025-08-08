@@ -40,7 +40,7 @@ All your data is stored locally in your browser - completely private!
 
 ## Screenshots
 
-![Light Mode](screenshot-light.png)
+![Light Mode](<img width="256" height="573" alt="image" src="https://github.com/user-attachments/assets/0bce7bb7-6af3-4052-8d61-ee2936a9b06d" />)
 ![Dark Mode](screenshot-dark.png)
 
 ## License
