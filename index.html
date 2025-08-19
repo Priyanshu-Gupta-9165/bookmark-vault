@@ -397,12 +397,6 @@
             flex-shrink: 0;
         }
 
-        .bookmark-container {
-            max-height: 400px;   /* Limit the height */
-            overflow-y: auto;    /* Enable vertical scroll */
-        }
-
-
         .actions-btn {
             background: none;
             border: none;
@@ -1000,13 +994,6 @@
                     </div>
                 `;
                 bookmarksContainer.appendChild(bookmarkCard);
-
-                container.scrollTo({
-                    top: container.scrollHeight,
-                    behavior: 'smooth'
-                      });
-
-                
             });
             
             // Add event listeners to action menus
